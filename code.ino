@@ -1,8 +1,8 @@
 #include <WiFi.h>
 
 // Replace with your network credentials
-const char* ssid     = "47D jio 4G";  //WIFI Name
-const char* password = "7496094510";  //WIFI Password
+const char* ssid     = "WIFI Name";  //Change "Wifi Name" with your wifi name. 
+const char* password = "password";  //Change "password" with your wifi password.
 
 // Set web server port number to 80
 WiFiServer server(80);
